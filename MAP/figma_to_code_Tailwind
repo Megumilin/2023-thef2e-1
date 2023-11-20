@@ -1,0 +1,739 @@
+<div class="flex flex-col items-stretch">
+  <div class="flex w-full flex-col items-stretch max-md:max-w-full">
+    <div class="flex w-full flex-col items-center px-5 py-12 max-md:max-w-full">
+      <div
+        class="flex w-full max-w-[1368px] justify-between gap-5 max-md:max-w-full max-md:flex-wrap max-md:justify-center"
+      >
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/653a3019-e4e6-4338-896e-4f03d04b94f2?apiKey=6b1424b0951946dcb7e2759bade6299a&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/653a3019-e4e6-4338-896e-4f03d04b94f2?apiKey=6b1424b0951946dcb7e2759bade6299a&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/653a3019-e4e6-4338-896e-4f03d04b94f2?apiKey=6b1424b0951946dcb7e2759bade6299a&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/653a3019-e4e6-4338-896e-4f03d04b94f2?apiKey=6b1424b0951946dcb7e2759bade6299a&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/653a3019-e4e6-4338-896e-4f03d04b94f2?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/653a3019-e4e6-4338-896e-4f03d04b94f2?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/653a3019-e4e6-4338-896e-4f03d04b94f2?apiKey=6b1424b0951946dcb7e2759bade6299a&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/653a3019-e4e6-4338-896e-4f03d04b94f2?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+          class="aspect-square object-contain object-center w-[100px] overflow-hidden shrink-0 max-w-full"
+        />
+        <div class="flex gap-0 mt-5">
+          <div class="text-slate-600 text-right text-3xl leading-10">2020</div>
+          <div class="self-stretch flex grow basis-[0%] flex-col items-stretch">
+            <div
+              class="text-slate-600 text-right text-3xl leading-10 whitespace-nowrap"
+            >
+              <span class="">第</span>
+              <span class="">15</span>
+              <span class="">任總統副總選舉</span>
+            </div>
+            <div
+              class="flex w-[37px] shrink-0 h-10 flex-col ml-20 mt-3.5 rounded-[50%] self-start max-md:ml-2.5"
+            ></div>
+          </div>
+        </div>
+        <div class="flex basis-[0%] flex-col items-stretch mt-6 self-end">
+          <div
+            class="text-slate-600 text-right text-3xl leading-10 whitespace-nowrap"
+          >
+            2016
+          </div>
+          <div
+            class="self-center flex w-[37px] shrink-0 h-10 flex-col mt-2.5 rounded-[50%]"
+          ></div>
+        </div>
+        <div class="flex basis-[0%] flex-col items-stretch mt-6 self-end">
+          <div
+            class="text-slate-600 text-right text-3xl leading-10 whitespace-nowrap"
+          >
+            2012
+          </div>
+          <div
+            class="self-center flex w-[37px] shrink-0 h-10 flex-col mt-2.5 rounded-[50%]"
+          ></div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="self-center flex w-full max-w-[1736px] items-stretch justify-between gap-5 mt-10 px-5 max-md:max-w-full max-md:flex-wrap max-md:justify-center"
+    >
+      <div
+        class="text-white text-right text-2xl leading-9 whitespace-nowrap justify-center items-center px-5 py-6 rounded-2xl border-[3px] border-solid border-white"
+      >
+        全國
+      </div>
+      <div
+        class="justify-between flex gap-5 pl-20 pr-4 py-5 rounded-2xl border-[3px] border-solid border-white max-md:pl-5"
+      >
+        <div class="text-white text-right text-2xl leading-9">縣市</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/7d892958-6623-4f18-9d64-c518368dfbb6?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+          class="aspect-square object-contain object-center w-6 overflow-hidden self-stretch shrink-0 max-w-full"
+        />
+      </div>
+      <div
+        class="justify-between flex gap-5 pl-20 pr-4 py-5 rounded-2xl border-[3px] border-solid border-white max-md:pl-5"
+      >
+        <div class="text-white text-right text-2xl leading-9">鄉鎮</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/76198add-9bb8-4d81-ba2f-085e35675c98?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+          class="aspect-square object-contain object-center w-6 overflow-hidden self-stretch shrink-0 max-w-full"
+        />
+      </div>
+      <div
+        class="items-center flex justify-between gap-2.5 pl-10 pr-20 py-4 rounded-2xl border-[3px] border-solid border-white max-md:max-w-full max-md:flex-wrap max-md:px-5"
+      >
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/406cc329-823a-4add-9ee6-9754be718f86?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+          class="aspect-square object-contain object-center w-6 fill-white overflow-hidden shrink-0 max-w-full my-auto"
+        />
+        <div
+          class="text-stone-300 text-opacity-60 text-right text-2xl leading-9 self-stretch grow whitespace-nowrap"
+        >
+          找地區
+        </div>
+      </div>
+    </div>
+    <div
+      class="self-center flex w-full max-w-[1736px] items-stretch gap-0 mt-14 px-5 max-md:max-w-full max-md:flex-wrap max-md:justify-center max-md:mt-10"
+    >
+      <div
+        class="justify-center flex grow basis-[0%] flex-col pl-5 pr-20 py-2.5 max-md:max-w-full max-md:pr-5"
+      >
+        <div class="text-white text-right text-lg leading-7 whitespace-nowrap">
+          朱筱雀/劉貝
+        </div>
+        <div
+          class="text-white text-right text-lg leading-6 whitespace-nowrap mt-2.5"
+        >
+          <span class="">7,111,222</span>
+          <span class="">票</span>
+        </div>
+      </div>
+      <div
+        class="justify-center flex grow basis-[0%] flex-col pl-5 pr-20 py-2 max-md:max-w-full max-md:pr-5"
+      >
+        <div class="text-white text-right text-lg leading-7 whitespace-nowrap">
+          顏青龍/張妃
+        </div>
+        <div
+          class="text-white text-right text-xl leading-6 whitespace-nowrap mt-2.5"
+        >
+          <span class="">5,111,222</span>
+          <span class="">票</span>
+        </div>
+      </div>
+      <div
+        class="justify-center flex grow basis-[0%] flex-col pl-5 pr-20 py-2 max-md:max-w-full max-md:pr-5"
+      >
+        <div class="text-white text-right text-lg leading-7 whitespace-nowrap">
+          卓白虎/官瑜
+        </div>
+        <div
+          class="text-white text-right text-xl leading-6 whitespace-nowrap mt-2.5"
+        >
+          <span class="">508,555</span>
+          <span class="">票</span>
+        </div>
+      </div>
+    </div>
+    <div class="w-full mt-20 pr-7 max-md:max-w-full max-md:mt-10 max-md:pr-5">
+      <div class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+        <div
+          class="flex flex-col items-stretch w-[70%] max-md:w-full max-md:ml-0"
+        >
+          <div
+            class="flex grow flex-col items-center max-md:max-w-full max-md:mt-10"
+          >
+            <div
+              class="flex w-[1028px] max-w-full justify-between gap-5 max-md:flex-wrap"
+            >
+              <div class="flex basis-[0%] flex-col items-stretch">
+                <div
+                  class="text-white text-opacity-20 text-right text-3xl leading-10 whitespace-nowrap"
+                >
+                  WE LOVE TW
+                </div>
+                <img
+                  loading="lazy"
+                  srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/79dcfcd5-ceb7-4816-a4ad-1bdb3aa8fa71?apiKey=6b1424b0951946dcb7e2759bade6299a&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/79dcfcd5-ceb7-4816-a4ad-1bdb3aa8fa71?apiKey=6b1424b0951946dcb7e2759bade6299a&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/79dcfcd5-ceb7-4816-a4ad-1bdb3aa8fa71?apiKey=6b1424b0951946dcb7e2759bade6299a&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/79dcfcd5-ceb7-4816-a4ad-1bdb3aa8fa71?apiKey=6b1424b0951946dcb7e2759bade6299a&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/79dcfcd5-ceb7-4816-a4ad-1bdb3aa8fa71?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/79dcfcd5-ceb7-4816-a4ad-1bdb3aa8fa71?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/79dcfcd5-ceb7-4816-a4ad-1bdb3aa8fa71?apiKey=6b1424b0951946dcb7e2759bade6299a&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/79dcfcd5-ceb7-4816-a4ad-1bdb3aa8fa71?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+                  class="aspect-[1.04] object-contain object-center w-full overflow-hidden mt-6"
+                />
+              </div>
+              <div
+                class="self-stretch flex grow basis-[0%] flex-col items-center max-md:max-w-full"
+              >
+                <div
+                  class="text-white text-right text-3xl leading-10 whitespace-nowrap"
+                >
+                  選舉概況
+                </div>
+                <div class="self-stretch mt-12 max-md:max-w-full max-md:mt-10">
+                  <div
+                    class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+                  >
+                    <div
+                      class="flex flex-col items-stretch w-[52%] max-md:w-full max-md:ml-0"
+                    >
+                      <img
+                        loading="lazy"
+                        src="https://cdn.builder.io/api/v1/image/assets/TEMP/ed9a37a1-954e-44c6-b874-b2620136bc17?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+                        class="aspect-square object-contain object-center w-full overflow-hidden max-md:mt-10"
+                      />
+                    </div>
+                    <div
+                      class="flex flex-col items-stretch w-[48%] ml-5 max-md:w-full max-md:ml-0"
+                    >
+                      <div
+                        class="flex flex-col items-stretch my-auto max-md:mt-10"
+                      >
+                        <div class="flex justify-between gap-5">
+                          <div
+                            class="flex grow basis-[0%] flex-col items-stretch"
+                          >
+                            <div
+                              class="text-white text-2xl leading-9 whitespace-nowrap"
+                            >
+                              投票率
+                            </div>
+                            <div
+                              class="text-white text-2xl leading-9 whitespace-nowrap mt-5"
+                            >
+                              投票數
+                            </div>
+                            <div
+                              class="text-white text-2xl leading-9 whitespace-nowrap mt-5"
+                            >
+                              有效票數
+                              <br />
+                            </div>
+                          </div>
+                          <div
+                            class="self-stretch flex grow basis-[0%] flex-col items-stretch"
+                          >
+                            <div
+                              class="text-white text-2xl leading-9 whitespace-nowrap"
+                            >
+                              78.9%
+                            </div>
+                            <div
+                              class="text-white text-2xl leading-9 whitespace-nowrap mt-6"
+                            >
+                              11,222,333
+                            </div>
+                            <div
+                              class="text-white text-2xl leading-9 whitespace-nowrap mt-5"
+                            >
+                              10,000,000
+                            </div>
+                          </div>
+                        </div>
+                        <div class="flex justify-between gap-5 mt-5">
+                          <div class="text-white text-2xl leading-9">
+                            無效票數
+                          </div>
+                          <div
+                            class="text-white text-2xl leading-9 whitespace-nowrap"
+                          >
+                            94,870
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="w-[555px] max-w-full mt-2 self-start">
+              <div
+                class="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0"
+              >
+                <div
+                  class="flex flex-col items-stretch w-[39%] max-md:w-full max-md:ml-0"
+                >
+                  <div class="flex grow flex-col items-stretch max-md:mt-10">
+                    <div
+                      class="justify-between items-stretch flex gap-2.5 pl-2 pr-1.5 py-2"
+                    >
+                      <div
+                        class="justify-center items-stretch flex aspect-[1.1666666666666667] flex-col"
+                      >
+                        <div
+                          class="text-white text-right text-base leading-5 whitespace-nowrap border aspect-[1.1666666666666667] items-stretch px-2 py-1 rounded-[40px] border-solid border-white"
+                        >
+                          1
+                        </div>
+                      </div>
+                      <div
+                        class="text-white text-right text-xl leading-7 grow whitespace-nowrap mt-1 self-start"
+                      >
+                        新世代改革黨
+                      </div>
+                    </div>
+                    <div
+                      class="items-stretch flex justify-between gap-2.5 mt-2 py-2"
+                    >
+                      <div
+                        class="justify-center items-stretch flex aspect-[1.4583333333333333] flex-col"
+                      >
+                        <div
+                          class="text-white text-right text-base leading-5 whitespace-nowrap border aspect-[1.4583333333333333] items-stretch px-2 py-1 rounded-[40px] border-solid border-white"
+                        >
+                          2
+                        </div>
+                      </div>
+                      <div
+                        class="text-white text-right text-xl leading-7 grow whitespace-nowrap mt-1 self-start"
+                      >
+                        未來前進黨
+                      </div>
+                    </div>
+                    <div
+                      class="items-stretch flex justify-between gap-2.5 mt-2 py-2"
+                    >
+                      <div
+                        class="justify-center items-stretch flex aspect-[1.4583333333333333] flex-col"
+                      >
+                        <div
+                          class="text-white text-right text-base leading-5 whitespace-nowrap border aspect-[1.4583333333333333] items-stretch px-1.5 py-1 rounded-[40px] border-solid border-white max-md:pr-px"
+                        >
+                          3
+                        </div>
+                      </div>
+                      <div
+                        class="text-white text-right text-xl leading-7 grow whitespace-nowrap mt-1 self-start"
+                      >
+                        星際和平黨
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="flex flex-col items-stretch w-[61%] ml-5 max-md:w-full max-md:ml-0"
+                >
+                  <div
+                    class="text-white text-right text-3xl leading-10 whitespace-nowrap mt-24 max-md:mt-10"
+                  >
+                    各縣市政黨得票數
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="flex w-[1157px] max-w-full flex-col mt-8 self-end">
+              <img
+                loading="lazy"
+                src="https://cdn.builder.io/api/v1/image/assets/TEMP/aef35b55-e916-4bb1-a015-bd4c553602cc?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+                class="aspect-[69] object-contain object-center w-[69px] fill-white stroke-[1px] stroke-white overflow-hidden max-w-full ml-20 self-start max-md:ml-2.5"
+              />
+              <div
+                class="self-stretch flex justify-between gap-2 pr-16 max-md:max-w-full max-md:flex-wrap max-md:pr-5"
+              >
+                <div class="self-stretch flex basis-[0%] flex-col">
+                  <div
+                    class="text-white text-right text-lg leading-7 self-stretch"
+                  >
+                    1600000
+                  </div>
+                  <div
+                    class="text-white text-right text-lg leading-7 self-stretch mt-11 max-md:mt-10"
+                  >
+                    1200000
+                  </div>
+                  <div
+                    class="text-white text-right text-lg leading-7 self-stretch mt-12 max-md:mt-10"
+                  >
+                    800000
+                  </div>
+                  <div
+                    class="text-white text-right text-lg leading-7 self-stretch mt-12 max-md:mt-10"
+                  >
+                    400000
+                  </div>
+                  <div
+                    class="text-white text-right text-xs leading-4 whitespace-nowrap mt-11 self-end max-md:mt-10"
+                  >
+                    0
+                  </div>
+                </div>
+                <img
+                  loading="lazy"
+                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/f172ac2e-fde7-4629-873e-28fd71712ad4?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+                  class="aspect-[0] object-contain object-center w-px fill-white stroke-[1px] stroke-white overflow-hidden self-stretch shrink-0 max-w-full"
+                />
+                <img
+                  loading="lazy"
+                  srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/7cfea869-4483-4e53-9b7c-7a19d2aa5f8e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/7cfea869-4483-4e53-9b7c-7a19d2aa5f8e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/7cfea869-4483-4e53-9b7c-7a19d2aa5f8e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/7cfea869-4483-4e53-9b7c-7a19d2aa5f8e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/7cfea869-4483-4e53-9b7c-7a19d2aa5f8e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/7cfea869-4483-4e53-9b7c-7a19d2aa5f8e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/7cfea869-4483-4e53-9b7c-7a19d2aa5f8e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/7cfea869-4483-4e53-9b7c-7a19d2aa5f8e?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+                  class="aspect-[5.3] object-contain object-center w-full overflow-hidden grow basis-[0%] mt-16 max-md:max-w-full max-md:mt-10"
+                />
+              </div>
+              <div
+                class="flex w-[1081px] max-w-full gap-0 pr-14 self-end max-md:flex-wrap max-md:pr-5"
+              >
+                <img
+                  loading="lazy"
+                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/76f2c9ba-ec6d-4255-9d94-7cd78ba9c65c?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+                  class="aspect-[10] object-contain object-center w-2.5 fill-white stroke-[1px] stroke-white overflow-hidden shrink-0 max-w-full"
+                />
+                <img
+                  loading="lazy"
+                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/663cb169-b8a4-46d3-9a7f-b9d79f56b608?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+                  class="aspect-[101.2] object-contain object-center w-full overflow-hidden self-stretch max-md:max-w-full"
+                />
+              </div>
+              <div
+                class="flex w-[1045px] max-w-full items-start justify-between gap-5 mr-5 self-end max-md:flex-wrap max-md:justify-center max-md:mr-2.5"
+              >
+                <div
+                  class="items-stretch self-stretch flex justify-between gap-5 pr-12 max-md:max-w-full max-md:flex-wrap max-md:pr-5"
+                >
+                  <div class="text-white text-right text-base leading-6">
+                    台北市
+                  </div>
+                  <div class="text-white text-right text-base leading-6">
+                    新北市
+                  </div>
+                  <div class="text-white text-right text-base leading-6">
+                    桃園市
+                  </div>
+                  <div class="text-white text-right text-base leading-6">
+                    台中市
+                  </div>
+                  <div class="text-white text-right text-base leading-6">
+                    台南市
+                  </div>
+                  <div class="text-white text-right text-base leading-6">
+                    高雄市
+                  </div>
+                  <div class="text-white text-right text-base leading-6">
+                    宜蘭縣
+                  </div>
+                  <div class="text-white text-right text-base leading-6">
+                    新竹縣
+                  </div>
+                  <div class="text-white text-right text-base leading-6">
+                    苗栗縣
+                  </div>
+                </div>
+                <div
+                  class="text-white text-right text-base leading-6 self-center my-auto"
+                >
+                  彰化縣
+                </div>
+                <div
+                  class="text-white text-right text-base leading-6 self-center my-auto"
+                >
+                  南投縣
+                </div>
+                <div
+                  class="text-white text-right text-base leading-6 self-center whitespace-nowrap my-auto"
+                >
+                  雲林縣
+                </div>
+              </div>
+              <div
+                class="flex w-[453px] max-w-full items-center justify-between gap-2.5 ml-24 mt-5 self-start max-md:flex-wrap max-md:justify-center"
+              >
+                <div
+                  class="stroke-[2px] flex w-8 shrink-0 h-8 flex-col rounded-[50%] self-start"
+                ></div>
+                <div
+                  class="bg-slate-600 flex w-[370px] shrink-0 h-4 flex-col my-auto"
+                ></div>
+                <div
+                  class="stroke-[2px] flex w-8 shrink-0 h-8 flex-col rounded-[50%] self-start"
+                ></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex flex-col items-stretch w-[30%] ml-5 max-md:w-full max-md:ml-0"
+        >
+          <img
+            loading="lazy"
+            srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/21d2149d-3ed6-490c-8dc8-818571c650f1?apiKey=6b1424b0951946dcb7e2759bade6299a&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/21d2149d-3ed6-490c-8dc8-818571c650f1?apiKey=6b1424b0951946dcb7e2759bade6299a&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/21d2149d-3ed6-490c-8dc8-818571c650f1?apiKey=6b1424b0951946dcb7e2759bade6299a&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/21d2149d-3ed6-490c-8dc8-818571c650f1?apiKey=6b1424b0951946dcb7e2759bade6299a&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/21d2149d-3ed6-490c-8dc8-818571c650f1?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/21d2149d-3ed6-490c-8dc8-818571c650f1?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/21d2149d-3ed6-490c-8dc8-818571c650f1?apiKey=6b1424b0951946dcb7e2759bade6299a&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/21d2149d-3ed6-490c-8dc8-818571c650f1?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+            class="aspect-[0.71] object-contain object-center w-full overflow-hidden mt-12 max-md:max-w-full max-md:mt-10"
+          />
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/03d2494d-7b3d-414c-a3b1-3aed15eedaab?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+      class="aspect-[1723] object-contain object-center w-full stroke-[1px] stroke-white overflow-hidden self-center max-w-[1723px] mt-14 max-md:max-w-full max-md:mt-10"
+    />
+  </div>
+  <div
+    class="self-center z-[1] flex w-full max-w-[1703px] flex-col items-stretch mt-12 max-md:max-w-full max-md:mt-10"
+  >
+    <div class="flex flex-col items-stretch max-md:max-w-full">
+      <div class="flex flex-col px-7 max-md:max-w-full max-md:px-5">
+        <div
+          class="text-white text-3xl leading-10 whitespace-nowrap ml-12 max-md:max-w-full"
+        >
+          各縣市歷屆投票率變化
+        </div>
+        <div
+          class="self-stretch flex w-full justify-between gap-5 mt-16 max-md:max-w-full max-md:flex-wrap max-md:mt-10"
+        >
+          <div
+            class="flex items-stretch justify-between gap-5 pr-20 max-md:max-w-full max-md:flex-wrap max-md:pr-5"
+          >
+            <div class="text-white text-right text-lg leading-7">
+              12
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              16
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              20
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              12
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              16
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              20
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              12
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              16
+              <br />
+            </div>
+            <div
+              class="text-white text-right text-lg leading-7 whitespace-nowrap"
+            >
+              20
+              <br />
+            </div>
+          </div>
+          <div
+            class="self-stretch flex justify-between gap-5 pr-20 max-md:max-w-full max-md:flex-wrap max-md:pr-5"
+          >
+            <div class="text-white text-right text-lg leading-7">
+              12
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              16
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              20
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              12
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              16
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              20
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              12
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              16
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              20
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              12
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              16
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              20
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              12
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              16
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              20
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              12
+              <br />
+            </div>
+            <div class="text-white text-right text-lg leading-7">
+              16
+              <br />
+            </div>
+            <div
+              class="text-white text-right text-lg leading-7 whitespace-nowrap"
+            >
+              20
+              <br />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex items-stretch justify-between gap-0 mt-2 pr-20 max-md:max-w-full max-md:flex-wrap max-md:pr-5"
+      >
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/1174d5de-1991-4767-8b7c-01ad110918eb?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+          class="aspect-[14] object-contain object-center w-3.5 fill-white stroke-[1px] stroke-white overflow-hidden shrink-0 max-w-full"
+        />
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/66464dd2-e9b5-4a06-a742-068eaf87522d?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+          class="aspect-[1323] object-contain object-center w-full stroke-[1px] stroke-white overflow-hidden grow basis-[0%] max-md:max-w-full"
+        />
+      </div>
+    </div>
+    <div class="z-[1] flex mt-0 w-[292px] max-w-full flex-col self-end">
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/08adfcdb-7727-476a-8bf7-31f73af1630c?apiKey=6b1424b0951946dcb7e2759bade6299a&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/08adfcdb-7727-476a-8bf7-31f73af1630c?apiKey=6b1424b0951946dcb7e2759bade6299a&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/08adfcdb-7727-476a-8bf7-31f73af1630c?apiKey=6b1424b0951946dcb7e2759bade6299a&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/08adfcdb-7727-476a-8bf7-31f73af1630c?apiKey=6b1424b0951946dcb7e2759bade6299a&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/08adfcdb-7727-476a-8bf7-31f73af1630c?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/08adfcdb-7727-476a-8bf7-31f73af1630c?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/08adfcdb-7727-476a-8bf7-31f73af1630c?apiKey=6b1424b0951946dcb7e2759bade6299a&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/08adfcdb-7727-476a-8bf7-31f73af1630c?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+        class="aspect-square object-contain object-center w-[180px] overflow-hidden self-center max-w-full"
+      />
+      <div
+        class="text-white text-right text-base leading-5 whitespace-nowrap justify-center items-center bg-blue-400 self-stretch mt-36 px-5 py-2 max-md:mt-10"
+      >
+        2012
+      </div>
+      <div
+        class="text-white text-right text-base leading-5 whitespace-nowrap justify-center items-center bg-zinc-500 self-stretch mt-4 px-5 py-2"
+      >
+        2016
+      </div>
+      <div
+        class="text-white text-right text-base leading-5 whitespace-nowrap justify-center items-center bg-slate-400 self-stretch mt-4 px-5 py-2"
+      >
+        2020
+      </div>
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/9e9f38e7-c793-4cfa-9098-04900ed40e4f?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+        class="aspect-square object-contain object-center w-[50px] overflow-hidden max-w-full mt-32 self-end max-md:mt-10"
+      />
+    </div>
+  </div>
+  <div
+    class="self-center flex mt-0 w-full max-w-[1391px] flex-col mb-28 pb-12 max-md:max-w-full max-md:mt-0 max-md:mb-10"
+  >
+    <div
+      class="text-white text-right text-lg leading-7 self-stretch z-[1] max-md:max-w-full"
+    >
+      100%
+    </div>
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/8f8f1559-eb04-4bec-bc94-bedb59d3a867?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+      class="aspect-[0] object-contain object-center w-px stroke-[1px] stroke-white overflow-hidden mt-0 max-w-full ml-16 self-start max-md:ml-2.5"
+    />
+    <div
+      class="self-center z-[1] flex mt-0 w-full max-w-[1323px] flex-col items-center max-md:max-w-full max-md:mt-0"
+    >
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/78593d30-0707-47a3-82ff-f2fe9c94325e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/78593d30-0707-47a3-82ff-f2fe9c94325e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/78593d30-0707-47a3-82ff-f2fe9c94325e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/78593d30-0707-47a3-82ff-f2fe9c94325e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/78593d30-0707-47a3-82ff-f2fe9c94325e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/78593d30-0707-47a3-82ff-f2fe9c94325e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/78593d30-0707-47a3-82ff-f2fe9c94325e?apiKey=6b1424b0951946dcb7e2759bade6299a&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/78593d30-0707-47a3-82ff-f2fe9c94325e?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+        class="aspect-[3.97] object-contain object-center w-full overflow-hidden self-stretch max-md:max-w-full"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/f57c63c8-c4e2-4141-acfa-4699f541fbc6?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+        class="aspect-[101.77] object-contain object-center w-full overflow-hidden max-md:max-w-full"
+      />
+      <div
+        class="self-stretch flex flex-col items-stretch mt-2 pl-6 pr-12 max-md:max-w-full max-md:px-5"
+      >
+        <div
+          class="items-stretch flex justify-between gap-5 pr-7 max-md:max-w-full max-md:flex-wrap max-md:justify-center max-md:pr-5"
+        >
+          <div class="text-white text-right text-base leading-6">台北市</div>
+          <div class="text-white text-right text-base leading-6">新北市</div>
+          <div class="text-white text-right text-base leading-6">桃園市</div>
+          <div class="text-white text-right text-base leading-6">台中市</div>
+          <div class="text-white text-right text-base leading-6">台南市</div>
+          <div class="text-white text-right text-base leading-6">高雄市</div>
+          <div class="text-white text-right text-base leading-6">宜蘭縣</div>
+          <div class="text-white text-right text-base leading-6">新竹縣</div>
+          <div class="text-white text-right text-base leading-6">苗栗縣</div>
+        </div>
+        <div
+          class="flex w-[399px] max-w-full gap-0 mt-8 self-start max-md:justify-center"
+        >
+          <div
+            class="stroke-[2px] self-stretch flex w-8 shrink-0 h-8 flex-col rounded-[50%]"
+          ></div>
+          <div
+            class="bg-slate-600 flex w-[370px] shrink-0 h-4 flex-col -mr-3.5 mt-2"
+          ></div>
+          <div
+            class="stroke-[2px] self-stretch flex w-8 shrink-0 h-8 flex-col rounded-[50%]"
+          ></div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex w-[62px] max-w-full flex-col items-stretch -mt-96 self-start max-md:mt-0"
+    >
+      <div class="flex items-stretch justify-between gap-2.5 pr-px">
+        <div class="text-white text-right text-lg leading-7">75%</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/c7fe11df-ceb0-42a5-b385-0934d4246acb?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+          class="aspect-[15] object-contain object-center w-[15px] fill-white stroke-[1px] stroke-white overflow-hidden shrink-0 max-w-full mt-2.5 self-start"
+        />
+      </div>
+      <div
+        class="flex items-stretch justify-between gap-2.5 mt-20 max-md:mt-10"
+      >
+        <div class="text-white text-right text-lg leading-7">50%</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/00e4f3a8-d12d-458a-a0e9-881f9c72170e?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+          class="aspect-[16] object-contain object-center w-4 fill-white stroke-[1px] stroke-white overflow-hidden shrink-0 max-w-full mt-2.5 self-start"
+        />
+      </div>
+      <div
+        class="flex items-stretch justify-between gap-2.5 mt-20 pr-px max-md:mt-10"
+      >
+        <div class="text-white text-right text-lg leading-7">25%</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/f88a3a96-ddf9-4a92-9981-c822b53e68ab?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+          class="aspect-[13] object-contain object-center w-[13px] fill-white stroke-[1px] stroke-white overflow-hidden shrink-0 max-w-full mt-2.5 self-start"
+        />
+      </div>
+    </div>
+    <div
+      class="text-white text-right text-lg leading-7 z-[1] whitespace-nowrap ml-4 mt-20 self-start max-md:ml-2.5 max-md:mt-10"
+    >
+      0%
+    </div>
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/0d4b509e-2f24-4d97-936f-3c2231dbf1b0?apiKey=6b1424b0951946dcb7e2759bade6299a&"
+      class="aspect-[13] object-contain object-center w-[13px] fill-white stroke-[1px] stroke-white overflow-hidden mt-0 max-w-full ml-14 mb-20 self-start max-md:ml-2.5 max-md:mb-10"
+    />
+  </div>
+</div>
